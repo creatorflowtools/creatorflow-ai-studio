@@ -1,0 +1,9 @@
+CREATORFLOW 14-DAY VALIDATION PLAN
+
+Days 1-2: Test every v7 export, browser and installation. Write support/refund policy.
+Days 3-4: Create real checkout and automated delivery; test a purchase end-to-end.
+Days 5-7: Publish landing page and 3 short demos. Ask 10 small-business owners for product feedback; no spam.
+Days 8-10: Improve weak designs/copy based on feedback; publish 3 more demos and a clear tutorial.
+Days 11-14: Review visitors, checkout clicks, sales, refunds and feedback. Improve the weakest step.
+
+At $99: 203 sales = $20,097 gross; 809 sales = $80,091 gross. Fees, refunds, taxes, advertising and costs reduce net.

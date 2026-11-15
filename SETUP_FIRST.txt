@@ -1,0 +1,10 @@
+CREATORFLOW v8 SALES KIT
+
+1. Open index.html in Chrome to preview the sales page.
+2. Replace YOUR_EMAIL@example.com in index.html with your contact email, OR preferably replace the entire checkout href with a real payment link.
+3. Do not publish the page with the placeholder checkout.
+4. Confirm pricing, support policy, refunds, tax handling and product delivery before accepting orders.
+5. Host index.html and assets/ together on a static website host.
+6. The actual CreatorFlow v7 application must be packaged and delivered separately to paying customers. This ZIP is a SALES PAGE, not the full product.
+7. The six sample images come from the user-provided Maple Street Cafe 30-post export.
+8. Product is template-based, not connected to a live AI API. No sales or income is guaranteed.
